@@ -1,2 +1,2 @@
 # SerDesPythonModel
-Try to use Python to model SerDes System
+The Project is about modeling SerDes in python.
